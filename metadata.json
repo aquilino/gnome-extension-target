@@ -1,0 +1,18 @@
+{
+  "description": "Show IP addresses for Target in the GNOME panel.", 
+  "name": "Target-extension", 
+  "shell-version": [
+    "3.32",
+    "3.34",
+    "3.36",
+    "3.38",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+  ],
+  "url": "https://github.com/aquilino/gnome-extension-target", 
+  "uuid": "gnome-extension-target-hidro23@gmail.com", 
+  "version": 3
+}
